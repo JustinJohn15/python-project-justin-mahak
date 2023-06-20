@@ -1,5 +1,4 @@
-PYTHON MINI PROJECT 
-AUTOMATED TELLER MACHINE 
+AUTOMATED TELLER MACHINE- 
 DESCRIPTION-
 The program represents an ATM (Automated Teller Machine) system. In this program we are performing basic functions of ATM such as accessing account information, changing the PIN, checking the account balance, withdrawing money, and depositing money. All performed in this user defined function program.
 To run the program user defined functions are used and looping functions such as if, while and for statements. Switch case is all used for the following options such as withdraw money and depositing it. Basic syntax and logical errors were there which are solved.
