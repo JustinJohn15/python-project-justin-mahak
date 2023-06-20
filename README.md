@@ -1,3 +1,5 @@
+PYTHON MINI PROJECT 
+AUTOMATED TELLER MACHINE 
 DESCRIPTION-
 The program represents an ATM (Automated Teller Machine) system. In this program we are performing basic functions of ATM such as accessing account information, changing the PIN, checking the account balance, withdrawing money, and depositing money. All performed in this user defined function program.
 To run the program user defined functions are used and looping functions such as if, while and for statements. Switch case is all used for the following options such as withdraw money and depositing it. Basic syntax and logical errors were there which are solved.
@@ -25,4 +27,34 @@ Inside the loop, the program prompts the user to enter their name. If the entere
 After each operation, the user is prompted to either exit or continue performing operations. If the user chooses to exit, the program breaks out of the innermost while loop. If the user chooses to continue, the program repeats the process allowing the user to select another operation.
 Also, if the user fails to enter the correct PIN within three attempts, their account is removed from the info dictionary, and a message stating "Account Blocked!" is displayed. If the entered name is not found in the info dictionary, the user is prompted to enter the name again.
 The program continues to loop until the user decides to exit by entering 'Y' or 'y' when prompted to exit.
+
+SAMPLE OUTPUTS
+After entering name and pin one can continue with any of the operations but only if the name is stored in info dictionary.
+ 
+![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/347298e8-bcfc-4d48-a4fb-bb0823ae1b15)
+
+For account informations-
+ ![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/b8a541a4-51a0-47fc-a32c-f765a2b5d6fd)
+
+To change the pin-
+ ![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/332a0cdc-7d15-41d1-b755-42c10af012b7)
+
+ ![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/3d74e609-d549-418f-a07b-453aefd992ca)
+
+ ![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/52363b60-ef11-4186-8504-9800cda39d1b)
+
+
+To deposit the money-
+ ![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/7de056d9-f336-4673-bfd8-d2486edbc160)
+
+![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/541ba54a-62f2-4dc8-90e8-288089d1f10f)
+
+ 
+For balance inquiry-
+ ![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/a1adb48b-fe49-4fb1-9389-2ef149bd4728)
+
+To withdrawl the money-
+ ![image](https://github.com/JustinJohn15/python-project-justin-mahak/assets/118895156/4d02a086-ce57-49bb-a85e-d75898b84b34)
+
+
 
